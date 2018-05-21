@@ -52,7 +52,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = '3pm'
-copyright = '2017, intellisoft'
+copyright = '2018, IntelliSOFT'
 author = 'felix, patrick'
 
 # The version info for the project you're documenting, acts as replacement for
